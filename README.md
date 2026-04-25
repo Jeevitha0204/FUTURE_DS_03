@@ -130,6 +130,9 @@ By optimizing these areas, businesses can significantly improve conversion rates
 ---
 ## 🚀 Project Outcome
 https://public.tableau.com/authoring/Marketingfunnel_17771224374100/MarketingFunnelConversionDashboard#1
+
+<img width="1119" height="668" alt="image" src="https://github.com/user-attachments/assets/890364d3-33de-4a66-afde-2d3c3306287c" />
+
 ---
 ## 🔗 Author
 
